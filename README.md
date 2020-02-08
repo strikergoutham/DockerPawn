@@ -19,7 +19,7 @@ This Script Does the following :
 
 >> Adds an entry with credentials "pawned/pawned" to the /etc/passwd wth root privileges .
 
->> cleans up the operations.
+>> cleans up the operation.
 
 pre requisites :
 
