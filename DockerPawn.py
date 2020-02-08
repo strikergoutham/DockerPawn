@@ -1,5 +1,5 @@
 '''
-Script Mame : Docker Pawn(REST)
+Script: Docker Pawn
 
 Author : Goutham Madhwaraj K B ( @barriersec.com)
 
