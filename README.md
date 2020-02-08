@@ -12,12 +12,15 @@ UnAuth Exposed endpoints = root level access on the host system.
 This Script Does the following :
 
 >> Gathers Remote Host and docker daemon Information
+
 >> uses existing alpine base image if available / pulls a new alpine image from the docker registry.
->> deploys a container with root file system mounted onto container at /rootFS
->> adds an entry with credentials "pawned/pawned" to the /etc/passwd wth root privileges .
+
+>> Deploys a container with root file system mounted onto container at /rootFS. 
+
+>> Adds an entry with credentials "pawned/pawned" to the /etc/passwd wth root privileges .
+
 >> cleans up the operations.
 
-usage :
 pre requisites :
 
 >> works on python 3
