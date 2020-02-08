@@ -29,7 +29,7 @@ pre requisites :
 
 >> usage :
 
-pythonPawn.py -ip "victim host IP" [optional port. Default (2375)]
+DockerPawn.py -ip "victim host IP" [optional port. Default (2375)]
 
 
 Disclaimer : I am not responsible for any abuse that you intend to do using this script without proper authorization. 
