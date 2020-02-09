@@ -24,8 +24,11 @@ This Script Does the following :
 pre requisites :
 
 >> works on python 3
+
 >> pip3 install docker
+
 >> pip3 install requests
+
 
 >> usage :
 
